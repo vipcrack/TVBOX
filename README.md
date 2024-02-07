@@ -1,1 +1,1 @@
-TVBOX LIST from qist
+TVBOX LIST from https://github.com/qist
